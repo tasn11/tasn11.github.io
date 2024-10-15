@@ -24,6 +24,26 @@ profiles:
     url: https://github.com/talmoha
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/tasneem-almohamad/
+    
+work:
+  - position: Solutions Architect Intern
+    company_name: AWS
+    company_url: ''
+    company_logo: ''
+    date_start: 2023/06
+    date_end: '2023/08'
+  - position: Software Engineer Intern
+    company_name: TD Bank
+    company_url: ''
+    company_logo: ''
+    date_start: 2023/04
+    date_end: 2023/05
+  - position: Technology Consulting Intern
+    company_name: EY
+    company_url: ''
+    company_logo: ''
+    date_start: 2022/05
+    date_end: 2022/08
 
 education:
   - area: Dual Degree: Software Engineering & Honours Business Administration
@@ -32,48 +52,28 @@ education:
     date_end: 2024/04
     summary: |
       GPA: 3.9/4.0
-      
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+  
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: devicon/python
-      - name: RStudio
+      - name: JavaScript
         description: ''
         percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
+        icon: devicon/javascript
+      - name: Java
         description: ''
-        percent: 40
-        icon: devicon/pytorch
+        percent: 80
+        icon: devicon/java
+      - name: Python
+        description: ''
+        percent: 50
+        icon: devicon/python
+      - name: React
+        description: ''
+        percent: 80
+        icon: devicon/react
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -81,54 +81,36 @@ skills:
       - name: Hiking
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Art
         description: ''
         percent: 100
-        icon: cat
       - name: Photography
         description: ''
         percent: 80
-        icon: camera
-
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+projects:
+  - title: Bossify- AI Career Coach App for Women's Professional Development
+    technologies: React | Node JS | GPT-4 API
+    url: https://devpost.com/software/bossify-6eqxmv
+    date: '2024/01'
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Bossify is an AI-driven online, personalized career coach for women to build important professional skills and advance in their careers. This web application uses cutting-edge technology to allow the user to not only set goals and keep a record of achievements but to also practice incorporating them while practicing important conversations about topics like "How to ask for a pay raise?" or "How to ask approach a promotion?". The user can practice by recording their answers to AI-generated questions for their required topic, where they can get feedback and recommendations to strengthen their language, use fewer filler words through speech analysis, and maintain a correct tone through sentiment analysis.
+  - title: MoneyVille- Gamified Financial Literacy Web App
+    subtitle: 3rd place winner & sponsored prize winner (CGI & TD: Ready Commitment Hack) at SheHacks hackathon
+    technologies: JavScript | HTML | CSS | Google Maps API
+    url: https://devpost.com/software/moneyville
+    date: '2022/01'
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      MoneyVille is a gamified web app that allows girls aged 7-14 to learn to make wise financial decisions. The website takes the form of a location roadmap that allows the user to explore places like the bank, donation centre, stadium, and more. Each individual location offers unique learning and experience, where the stadium allows you to work towards ‘quests’ which are things you want to invest towards and it shows your progress. The bank allows you to visualize your spending habits and make transactions of either earning or spending money, where you’ll also be able to see your transaction history.
+  - title: Light My Way- Navigation Mobile App
+    subtitle: Sponsored prize winner (Telus Sustainability Prize) at HackWestern hackathon
+    technologies: Android Studio | React | JavScript
+    url: https://devpost.com/software/light-my-way
+    date: '2021/11'
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Light My Way visualizes data of London, Ontario’s Street Lighting and recent nearby crimes in order to calculate the safest path for the user to take. Upon opening the app, the user can access “Maps” and search up their destination or drop a pin on a location. The app displays the safest route available and prompts the user to “Send Location” which sends the path that the user is taking to three contacts via messages. 
 ---
-
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
