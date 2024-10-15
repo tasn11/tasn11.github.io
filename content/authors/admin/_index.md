@@ -99,15 +99,11 @@ projects:
     summary: |
       Bossify is an AI-driven online, personalized career coach for women to build important professional skills and advance in their careers. This web application uses cutting-edge technology to allow the user to not only set goals and keep a record of achievements but to also practice incorporating them while practicing important conversations about topics like "How to ask for a pay raise?" or "How to ask approach a promotion?". The user can practice by recording their answers to AI-generated questions for their required topic, where they can get feedback and recommendations to strengthen their language, use fewer filler words through speech analysis, and maintain a correct tone through sentiment analysis.
   - title: MoneyVille- Gamified Financial Literacy Web App
-    subtitle: 3rd place winner & sponsored prize winner (CGI & TD: Ready Commitment Hack) at SheHacks hackathon
-    technologies: JavScript | HTML | CSS | Google Maps API
     url: https://devpost.com/software/moneyville
     date: '2022/01'
     summary: |
       MoneyVille is a gamified web app that allows girls aged 7-14 to learn to make wise financial decisions. The website takes the form of a location roadmap that allows the user to explore places like the bank, donation centre, stadium, and more. Each individual location offers unique learning and experience, where the stadium allows you to work towards ‘quests’ which are things you want to invest towards and it shows your progress. The bank allows you to visualize your spending habits and make transactions of either earning or spending money, where you’ll also be able to see your transaction history.
   - title: Light My Way- Navigation Mobile App
-    subtitle: Sponsored prize winner (Telus Sustainability Prize) at HackWestern hackathon
-    technologies: Android Studio | React | JavScript
     url: https://devpost.com/software/light-my-way
     date: '2021/11'
     summary: |
