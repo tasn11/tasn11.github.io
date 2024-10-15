@@ -99,7 +99,7 @@ awards:
   - title: Bossify- AI Career Coach App for Women's Professional Development
     url: https://devpost.com/software/bossify-6eqxmv
     technologies: "React | Node JS | GPT-4 API"
-    date: '2024-0101'
+    date: '2024-01-01'
     summary: |
       Bossify is an AI-driven online, personalized career coach for women to build important professional skills and advance in their careers. This web application uses cutting-edge technology to allow the user to not only set goals and keep a record of achievements but to also practice incorporating them while practicing important conversations about topics like "How to ask for a pay raise?" or "How to ask approach a promotion?". The user can practice by recording their answers to AI-generated questions for their required topic, where they can get feedback and recommendations to strengthen their language, use fewer filler words through speech analysis, and maintain a correct tone through sentiment analysis.
   - title: MoneyVille- Gamified Financial Literacy Web App
