@@ -99,21 +99,21 @@ awards:
   - title: Bossify- AI Career Coach App for Women's Professional Development
     url: https://devpost.com/software/bossify-6eqxmv
     technologies: "React | Node JS | GPT-4 API"
-    date: '2024-01'
+    date: '2024-0101'
     summary: |
       Bossify is an AI-driven online, personalized career coach for women to build important professional skills and advance in their careers. This web application uses cutting-edge technology to allow the user to not only set goals and keep a record of achievements but to also practice incorporating them while practicing important conversations about topics like "How to ask for a pay raise?" or "How to ask approach a promotion?". The user can practice by recording their answers to AI-generated questions for their required topic, where they can get feedback and recommendations to strengthen their language, use fewer filler words through speech analysis, and maintain a correct tone through sentiment analysis.
   - title: MoneyVille- Gamified Financial Literacy Web App
     url: https://devpost.com/software/moneyville
     subtitle: "3rd place winner & sponsored prize winner (CGI & TD: Ready Commitment Hack) at SheHacks hackathon"
     technologies: "JavScript | HTML | CSS | Google Maps API"
-    date: '2022-01'
+    date: '2022-01-01'
     summary: |
       MoneyVille is a gamified web app that allows girls aged 7-14 to learn to make wise financial decisions. The website takes the form of a location roadmap that allows the user to explore places like the bank, donation centre, stadium, and more. Each individual location offers unique learning and experience, where the stadium allows you to work towards ‘quests’ which are things you want to invest towards and it shows your progress. The bank allows you to visualize your spending habits and make transactions of either earning or spending money, where you’ll also be able to see your transaction history.
   - title: Light My Way- Navigation Mobile App
     url: https://devpost.com/software/light-my-way
     subtitle: "Sponsored prize winner (Telus Sustainability Prize) at HackWestern hackathon"
     technologies: "Android Studio | React | JavScript"
-    date: '2021-11'
+    date: '2021-11-01'
     summary: |
       Light My Way visualizes data of London, Ontario’s Street Lighting and recent nearby crimes in order to calculate the safest path for the user to take. Upon opening the app, the user can access “Maps” and search up their destination or drop a pin on a location. The app displays the safest route available and prompts the user to “Send Location” which sends the path that the user is taking to three contacts via messages. 
 ---
