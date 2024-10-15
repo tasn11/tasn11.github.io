@@ -48,8 +48,8 @@ work:
 education:
   - area: Dual Degree in Software Engineering & Business
     institution: Western University
-    date_start: 2019-09
-    date_end: 2024-04
+    date_start: 2019-09-01
+    date_end: 2024-04-30
     summary: |
       GPA: 3.9/4.0
   
