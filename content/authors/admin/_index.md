@@ -94,7 +94,6 @@ skills:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 projects:
   - title: Bossify- AI Career Coach App for Women's Professional Development
-    technologies: React | Node JS | GPT-4 API
     url: https://devpost.com/software/bossify-6eqxmv
     date: '2024/01'
     summary: |
