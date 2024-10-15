@@ -31,19 +31,19 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2023-05-15
-    date_end: 2023-08
+    date_end: 2023-08-30
   - position: Software Engineer Intern
     company_name: TD Bank
     company_url: ''
     company_logo: ''
     date_start: 2023-04-01
-    date_end: 2023-05
+    date_end: 2023-05-30
   - position: Technology Consulting Intern
     company_name: EY
     company_url: ''
     company_logo: ''
     date_start: 2022-05-01
-    date_end: 2022-08
+    date_end: 2022-08-30
 
 education:
   - area: Dual Degree in Software Engineering & Business
