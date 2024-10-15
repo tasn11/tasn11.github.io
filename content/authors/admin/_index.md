@@ -46,7 +46,7 @@ work:
     date_end: 2022/08
 
 education:
-  - area: Dual Degree: Software Engineering & Honours Business Administration
+  - area: Dual Degree in Software Engineering & Honours Business Administration
     institution: Western University
     date_start: 2019/09
     date_end: 2024/04
@@ -114,3 +114,5 @@ projects:
     summary: |
       Light My Way visualizes data of London, Ontario’s Street Lighting and recent nearby crimes in order to calculate the safest path for the user to take. Upon opening the app, the user can access “Maps” and search up their destination or drop a pin on a location. The app displays the safest route available and prompts the user to “Send Location” which sends the path that the user is taking to three contacts via messages. 
 ---
+
+I am a driven problem solver with a passion for innovative technologies with strong full-stack development skills, cloud expertise, and strong business acumen to drive the design and development of cutting-edge solutions within an agile environment.
